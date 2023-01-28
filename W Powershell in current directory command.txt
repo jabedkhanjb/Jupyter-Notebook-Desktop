@@ -1,0 +1,2 @@
+to open as administrator: hold alt +(f+s+a) one after another
+normal: hold alt +(f+s+r) one after another
